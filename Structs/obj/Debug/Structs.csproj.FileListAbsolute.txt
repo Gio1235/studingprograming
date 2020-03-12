@@ -1,0 +1,10 @@
+C:\Users\Giorgi\source\repos\Recursion\Structs\bin\Debug\Structs.exe.config
+C:\Users\Giorgi\source\repos\Recursion\Structs\bin\Debug\Structs.exe
+C:\Users\Giorgi\source\repos\Recursion\Structs\bin\Debug\Structs.pdb
+C:\Users\Giorgi\source\repos\Recursion\Structs\obj\Debug\Structs.Properties.Resources.resources
+C:\Users\Giorgi\source\repos\Recursion\Structs\obj\Debug\Structs.csproj.GenerateResource.cache
+C:\Users\Giorgi\source\repos\Recursion\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\Recursion\Structs\obj\Debug\Structs.exe
+C:\Users\Giorgi\source\repos\Recursion\Structs\obj\Debug\Structs.pdb
+C:\Users\Giorgi\source\repos\Recursion\Structs\obj\Debug\Structs.StructForm.resources
+C:\Users\Giorgi\source\repos\Recursion\Structs\obj\Debug\Structs.csprojAssemblyReference.cache

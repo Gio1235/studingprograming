@@ -1,0 +1,10 @@
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\bin\Debug\QueueAndStack.exe.config
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\bin\Debug\QueueAndStack.exe
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\bin\Debug\QueueAndStack.pdb
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\obj\Debug\QueueAndStack.csprojAssemblyReference.cache
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\obj\Debug\QueueAndStack.Properties.Resources.resources
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\obj\Debug\QueueAndStack.QueueAndStackForm.resources
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\obj\Debug\QueueAndStack.csproj.GenerateResource.cache
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\obj\Debug\QueueAndStack.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\obj\Debug\QueueAndStack.exe
+C:\Users\Giorgi\source\repos\Recursion\QueueAndStack\obj\Debug\QueueAndStack.pdb

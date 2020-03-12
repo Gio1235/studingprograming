@@ -1,0 +1,10 @@
+C:\Users\Giorgi\source\repos\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Giorgi\source\repos\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\Giorgi\source\repos\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Giorgi\source\repos\Recursion\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\Giorgi\source\repos\Recursion\Recursion\obj\Debug\Recursion.Form1.resources
+C:\Users\Giorgi\source\repos\Recursion\Recursion\obj\Debug\Recursion.Properties.Resources.resources
+C:\Users\Giorgi\source\repos\Recursion\Recursion\obj\Debug\Recursion.csproj.GenerateResource.cache
+C:\Users\Giorgi\source\repos\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\Giorgi\source\repos\Recursion\Recursion\obj\Debug\Recursion.pdb

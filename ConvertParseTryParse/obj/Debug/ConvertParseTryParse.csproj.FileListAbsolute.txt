@@ -1,0 +1,9 @@
+C:\Users\Giorgi\source\repos\Recursion\ConvertParseTryParse\bin\Debug\ConvertParseTryParse.exe.config
+C:\Users\Giorgi\source\repos\Recursion\ConvertParseTryParse\bin\Debug\ConvertParseTryParse.exe
+C:\Users\Giorgi\source\repos\Recursion\ConvertParseTryParse\bin\Debug\ConvertParseTryParse.pdb
+C:\Users\Giorgi\source\repos\Recursion\ConvertParseTryParse\obj\Debug\ConvertParseTryParse.Properties.Resources.resources
+C:\Users\Giorgi\source\repos\Recursion\ConvertParseTryParse\obj\Debug\ConvertParseTryParse.TryParseConvertParse.resources
+C:\Users\Giorgi\source\repos\Recursion\ConvertParseTryParse\obj\Debug\ConvertParseTryParse.csproj.GenerateResource.cache
+C:\Users\Giorgi\source\repos\Recursion\ConvertParseTryParse\obj\Debug\ConvertParseTryParse.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\Recursion\ConvertParseTryParse\obj\Debug\ConvertParseTryParse.exe
+C:\Users\Giorgi\source\repos\Recursion\ConvertParseTryParse\obj\Debug\ConvertParseTryParse.pdb
